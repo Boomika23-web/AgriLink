@@ -1,0 +1,6 @@
+{
+  "name": "AgriLink - Smart D2C Agricultural Marketplace",
+  "description": "A smart direct-to-consumer agricultural marketplace connecting farmers and consumers with SymPy-powered Fair Price Discovery, functional smart matching, socket real-time updates, and multiprocessing analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
